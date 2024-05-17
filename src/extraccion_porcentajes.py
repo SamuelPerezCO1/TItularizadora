@@ -1,0 +1,59 @@
+import pandas as pd
+import fitz
+import os
+ 
+def extraer_porcentajes(archivo_pdf):
+    porcentajes = []
+ 
+    documento = fitz.open(archivo_pdf)
+ 
+    for pagina_numero in range(len(documento)):
+        pagina = documento.load_page(pagina_numero)
+        
+        x0 = 370
+        x1 = 550
+        y0 = 130
+        y1 = 180
+            
+        area_debajo_tips = fitz.Rect(x0, y0, x1 ,y1)
+        
+
+        texto_debajo_tips = pagina.get_text("text", clip=area_debajo_tips)
+        porcentajes.append(texto_debajo_tips)
+        
+        contador = 0
+        lista_info = []
+        
+        for info in porcentajes:
+            contador += 1
+            info_lines = info.strip().splitlines()
+            info_stripped = [line.strip() for line in info_lines if line.strip()]
+            
+
+            lista_info.extend(info_stripped)
+        
+        print(lista_info) #Lista de lo elementos que trae
+
+        patrones_excluir = ["MZ","B","A","C","T","+","_","$","Z","o","E","l","d","ió"]
+        
+        lista_filtrada = []
+        for elemento in lista_info:
+            if any(elemento.startswith(patron) for patron in patrones_excluir):
+                continue
+            lista_filtrada.append(elemento)
+            print(elemento)
+
+        nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
+        archivo_csv = f"{nombre_base}.csv"
+
+        df_nuevo = pd.DataFrame({"Porcentajes":lista_filtrada})
+
+        if os.path.exists(archivo_csv):
+            df_existente = pd.read_csv(archivo_csv)
+            df_actualizado = pd.concat([df_existente , df_nuevo] , axis = 1)
+        else:
+            df_actualizado = df_nuevo
+
+        df_actualizado.to_csv(archivo_csv , index=False)
+
+        print(f"Informacion Guardad en {archivo_csv}")
