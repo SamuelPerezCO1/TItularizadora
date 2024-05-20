@@ -9,52 +9,62 @@ def extraer_actual(archivo_pdf):
 
     for pagina_numero in range(len(documento)):
         pagina = documento.load_page(pagina_numero)
+        
+        palabras_actual = pagina.search_for("Actual")
 
-        x0 = 197
-        x1 = 250
-        y0 = 100
-        y1 = 210
+        for palabra_actual in palabras_actual:
+            x0, y0, x1, y1 = palabra_actual
+            
+            area_debajo_actual = fitz.Rect(x0 - 10, y1, x1 + 35, y1 + 55)
 
-        area_debajo_actual = fitz.Rect(x0, y0, x1 ,y1 )
+            texto_debajo_actual = pagina.get_text("text", clip=area_debajo_actual)
+            actual.append(texto_debajo_actual)
 
-        texto_actual = pagina.get_text("text", clip=area_debajo_actual)
-        actual.append(texto_actual)
-
-        contador = 0
         lista_info = []
-
+        
         for info in actual:
-            contador += 1
             info_lines = info.strip().splitlines()
             info_stripped = [line.strip() for line in info_lines if line.strip()]
 
-
             lista_info.extend(info_stripped)
+        
+        print(f'lista_info: {lista_info}') # Lista de los elementos que trae
 
-        print(lista_info)
+        # Generar la lista de porcentajes del 1.0% al 100.0%
+        porcentajes = [f"{i / 10:.1f}%" for i in range(10, 1001)]
 
-        patrones_excluir = ["_","P","L","a","Escenario","valoración",'Actual','-',
-                            "enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",
-                            ".","p","i","ó","Inicial","Participación","n","l","tal","era","t","c","o","m","s","E","v"]
+        patrones_excluir = ["_", "P", "L", "a", "Escenario", "valoración", 'Actual',
+                            "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
+                            ".", "p", "i", "ó", "Inicial", "Participación", "n", "l", "tal", "era", "t", "c", "o", "m", "s", "E", "v", 'A', 'B', 'C', 'A1', 'A2', 'A3',
+                            'B1', 'B2', 'B3', 'C1', 'C2', 'C3', 'MZ', 'T', 'S', 'd', 'i', 'c', 'e', 'é', 'h', 'r', 'c', 'Ãº', 'ú', ' ', 'E', 'u', ':' ,'0.0%']
+
+        # Agregar la lista de porcentajes a los patrones a excluir
+        patrones_excluir.extend(porcentajes)
 
         actual_filtrados = []
         for elemento in lista_info:
-            if any(elemento.startswith(patron) for patron in patrones_excluir) or elemento.endswith('%'):
+            if any(elemento.startswith(patron) for patron in patrones_excluir):
                 continue
-            actual_filtrados.append(elemento)
-            print(elemento)
 
+            if len(elemento) > 4 or '-' in elemento:
+                actual_filtrados.append(elemento)
+            print(f'elementos:{elemento}')
+
+        for i in actual_filtrados:
+            print(f"i = {i}")
+
+        print(f'Lista final: {actual_filtrados}')
         nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
         archivo_csv = f"{nombre_base}.csv"
 
-        df_nuevo = pd.DataFrame({"Actual":actual_filtrados})
-
+        df_nuevo = pd.DataFrame({'Actual': actual_filtrados})
+        print(actual_filtrados[0])
         if os.path.exists(archivo_csv):
             df_existente = pd.read_csv(archivo_csv)
-            df_actualizado = pd.concat([df_existente , df_nuevo] , axis = 1)
+            df_actualizado = pd.concat([df_existente, df_nuevo], axis=1)
         else:
             df_actualizado = df_nuevo
 
-        df_actualizado.to_csv(archivo_csv,index=False)
+        df_actualizado.to_csv(archivo_csv, index=False)
 
-        print(f"Informacion Guardad en {archivo_csv}")
+        print(f"Información guardada en {archivo_csv}")
