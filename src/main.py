@@ -8,10 +8,7 @@ saldo y mora
 import extraccion_tips
 import extraccion_actual
 import extraccion_porcentajes
-"""
-Aca debe de estar el import para el archivo de
-escenarios de estres
-"""
+import extraccion_escenarios_estres
 
 archivos_pdf = ["C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostilpesosl4mar202.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn5mar20.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn7mar20.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn13mar2.pdf",
@@ -30,6 +27,9 @@ for archivo_pdf in archivos_pdf:
     extraccion_tips.extraer_informacion_debajo_tips(archivo_pdf)
     extraccion_actual.extraer_actual(archivo_pdf)
     extraccion_porcentajes.extraer_porcentajes(archivo_pdf)
+    extraccion_escenarios_estres.extract_and_process_info(archivo_pdf)
+
+
 
 # archivo_pdf = "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostilpesosl4mar202.pdf"
 
