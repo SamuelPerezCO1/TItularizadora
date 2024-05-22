@@ -26,8 +26,6 @@ def extraer_titulo(archivo_pdf):
             info_stripped = [line.strip().replace("__", "") for line in info_lines if line.strip()]
             lista_info.extend(info_stripped)
 
-        print(lista_info)  # Lista de los elementos que trae
-
         nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
         archivo_csv = f"{nombre_base}.csv"
 
@@ -41,5 +39,3 @@ def extraer_titulo(archivo_pdf):
             df_actualizado = df_nuevo
 
         df_actualizado.to_csv(archivo_csv , index=False)
-
-        print(f"Informacion Guardada en {archivo_csv}")

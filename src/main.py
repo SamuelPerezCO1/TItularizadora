@@ -1,10 +1,7 @@
 import time
 import extraccion_titulo
 import extraccion_fecha
-"""
-Aca debe de ir el import para extrar el 
-saldo y mora
-"""
+import extraccion_saldoymora
 import extraccion_tips
 import extraccion_actual
 import extraccion_porcentajes
@@ -27,6 +24,7 @@ for archivo_pdf in archivos_pdf:
     extraccion_tips.extraer_informacion_debajo_tips(archivo_pdf)
     extraccion_actual.extraer_actual(archivo_pdf)
     extraccion_porcentajes.extraer_porcentajes(archivo_pdf)
+    extraccion_saldoymora.extraer_saldoymora(archivo_pdf)
     extraccion_escenarios_estres.extract_and_process_info(archivo_pdf)
 
 

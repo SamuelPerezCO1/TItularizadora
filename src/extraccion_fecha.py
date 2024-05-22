@@ -25,23 +25,15 @@ def extraer_fecha(archivo_pdf):
         info_stripped = [line.strip() for line in info_lines if line.strip()]
         lista_info.extend(info_stripped)
 
-    # Obtener el nombre base del archivo PDF y crear el nombre del archivo CSV
     nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
     archivo_csv = f"{nombre_base}.csv"
 
-    # Crear un DataFrame con la nueva información
     df_nuevo = pd.DataFrame({'Fecha': lista_info})
 
     if os.path.exists(archivo_csv):
-        # Si el archivo CSV ya existe, cárgalo
         df_existente = pd.read_csv(archivo_csv)
-        # Concatenar el DataFrame existente con el nuevo DataFrame
         df_actualizado = pd.concat([df_existente, df_nuevo], axis=1)
     else:
-        # Si el archivo CSV no existe, crea un nuevo DataFrame con la información extraída
         df_actualizado = df_nuevo
 
-    # Guardar el DataFrame actualizado en el archivo CSV
     df_actualizado.to_csv(archivo_csv, index=False)
-
-    print(f"Información guardada en {archivo_csv}")

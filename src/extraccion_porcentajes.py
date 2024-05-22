@@ -30,8 +30,6 @@ def extraer_porcentajes(archivo_pdf):
 
         lista_info.extend(info_stripped)
 
-    print(lista_info)  # Lista de los elementos que trae
-
     patrones_excluir = ["MZ", "B", "A", "C", "T", "+", "_", "$", "Z", "o", "E", "l", "d", "ió", 'g', 'a', 'V', 'A', 'A +', 'A1',
                         'A2', 'A3', 'B1', 'B2', 'B3', 'B', 'C', 'C1', 'C2', 'C3', 'MZ', '+', '2 + B', '1 +']
 
@@ -41,7 +39,6 @@ def extraer_porcentajes(archivo_pdf):
             continue
         if elemento.endswith('%'):
             lista_filtrada.append(elemento)
-            print(elemento)
 
     nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
     archivo_csv = f"{nombre_base}.csv"
@@ -55,5 +52,3 @@ def extraer_porcentajes(archivo_pdf):
         df_actualizado = df_nuevo
 
     df_actualizado.to_csv(archivo_csv, index=False)
-
-    print(f"Informacion Guardada en {archivo_csv}")

@@ -29,8 +29,6 @@ def extraer_informacion_debajo_tips(archivo_pdf):
 
             lista_info.extend(info_stripped)
         
-        print(lista_info) #Lista de lo elementos que trae
-
         patrones_excluir = ["Tasa", "%", "Prepago______", "1" , "2" , "3" , "4" , "5" , "6" , "7" , "8" , "9" , "0" , "Prepago" , "$" , "Saldo" ]
         
         tips_filtrados = []
@@ -38,22 +36,16 @@ def extraer_informacion_debajo_tips(archivo_pdf):
             if any(elemento.startswith(patron) for patron in patrones_excluir):
                 continue
             tips_filtrados.append(elemento)
-            print(elemento)
 
-        print(tips_filtrados)
         nombre_base = os.path.splitext(os.path.basename(archivo_pdf))[0]
         archivo_csv = f"{nombre_base}.csv"
 
         titulo = tips_filtrados[0]
 
-        print(titulo)
 
         tips_filtrados.pop(0)
 
-        print("Tips sin titulo",tips_filtrados)
-
         df_nuevo = pd.DataFrame({titulo:tips_filtrados})
-        print(tips_filtrados[0])
         if os.path.exists(archivo_csv):
             df_existente = pd.read_csv(archivo_csv)
             df_actualizado = pd.concat([df_existente , df_nuevo] , axis=1)
@@ -61,5 +53,3 @@ def extraer_informacion_debajo_tips(archivo_pdf):
             df_actualizado = df_nuevo
 
         df_actualizado.to_csv(archivo_csv,index=False)
-
-        print(f"Informacion Guardada en {archivo_csv}")
