@@ -1,0 +1,5 @@
+Saldo de capital de la cartera:
+540,816
+Saldo en Mora>120 días:
+44,896
+TIPS

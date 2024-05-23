@@ -1,0 +1,1102 @@
+2024-05-23 17:27:00,652 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 17:27:00,654 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 17:27:00,719 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 17:27:00,722 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 17:27:00,808 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 17:27:00,811 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 17:27:00,912 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 17:27:01,033 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 17:27:01,093 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 17:27:01,095 - TITULARIZADORA -INFO - (pdfaword) pdfaword ingreso en la funcion
+2024-05-23 17:27:01,106 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 17:27:01,106 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:27:01,107 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:27:02,695 - root -WARNING - Ignore Line " $1,572 millones " due to overlap
+2024-05-23 17:27:02,695 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 17:27:04,400 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:27:04,401 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:05,709 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:27:05,734 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:12,635 - root -INFO - Terminated in 11.53s.
+2024-05-23 17:27:12,646 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 17:27:12,646 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:27:12,647 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:27:15,856 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:27:15,857 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:17,340 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:27:17,355 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:27,535 - root -INFO - Terminated in 14.89s.
+2024-05-23 17:27:27,536 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 17:27:27,536 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:27:27,544 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:27:30,798 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:27:30,798 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:32,281 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:27:32,300 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:42,937 - root -INFO - Terminated in 15.39s.
+2024-05-23 17:27:42,939 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 17:27:42,939 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:27:42,939 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:27:46,551 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:27:46,551 - root -INFO - (1/1) Page 1
+2024-05-23 17:27:48,460 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:27:48,479 - root -INFO - (1/1) Page 1
+2024-05-23 17:28:05,593 - root -INFO - Terminated in 22.65s.
+2024-05-23 17:28:05,604 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 17:28:05,604 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:28:05,604 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Observado" due to overlap
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Prepago 6%" due to overlap
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Prepago 14%" due to overlap
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Prepago 20%" due to overlap
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Prepago 10%" due to overlap
+2024-05-23 17:28:06,867 - root -WARNING - Ignore Line "Media Móvil 12 meses " due to overlap
+2024-05-23 17:28:09,252 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:28:09,252 - root -INFO - (1/1) Page 1
+2024-05-23 17:28:10,898 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:28:10,917 - root -INFO - (1/1) Page 1
+2024-05-23 17:28:19,583 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -6287
+2024-05-23 17:28:19,631 - root -INFO - Terminated in 14.03s.
+2024-05-23 17:28:19,643 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 17:28:19,644 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:28:19,644 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:28:23,483 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:28:23,483 - root -INFO - (1/1) Page 1
+2024-05-23 17:28:25,028 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:28:25,051 - root -INFO - (1/1) Page 1
+2024-05-23 17:28:28,083 - root -ERROR - Ignore page 1 due to making page error: list index out of range
+2024-05-23 17:28:28,108 - root -INFO - Terminated in 8.47s.
+2024-05-23 17:28:28,119 - root -INFO - Start to convert C:\Codigos\prueba\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 17:28:28,121 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:28:28,121 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:38:59,943 - TITULARIZADORA -INFO - (pdfaword) pdfaword ingreso en la funcion
+2024-05-23 17:38:59,946 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 17:38:59,946 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:38:59,946 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:39:01,387 - root -WARNING - Ignore Line " $1,572 millones " due to overlap
+2024-05-23 17:39:01,387 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 17:39:03,041 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:39:03,041 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:04,152 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:39:04,167 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:10,556 - root -INFO - Terminated in 10.62s.
+2024-05-23 17:39:10,572 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 17:39:10,572 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:39:10,572 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:39:13,683 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:39:13,683 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:15,336 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:39:15,358 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:24,334 - root -INFO - Terminated in 13.76s.
+2024-05-23 17:39:24,336 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 17:39:24,336 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:39:24,336 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:39:28,307 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:39:28,307 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:29,806 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:39:29,827 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:39,868 - root -INFO - Terminated in 15.53s.
+2024-05-23 17:39:39,878 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 17:39:39,878 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:39:39,878 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:39:43,842 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:39:43,842 - root -INFO - (1/1) Page 1
+2024-05-23 17:39:45,464 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:39:45,476 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:00,599 - root -INFO - Terminated in 20.72s.
+2024-05-23 17:40:00,606 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 17:40:00,606 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:40:00,607 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:40:01,940 - root -WARNING - Ignore Line "Observado" due to overlap
+2024-05-23 17:40:01,944 - root -WARNING - Ignore Line "Prepago 6%" due to overlap
+2024-05-23 17:40:01,946 - root -WARNING - Ignore Line "Prepago 14%" due to overlap
+2024-05-23 17:40:01,949 - root -WARNING - Ignore Line "Prepago 20%" due to overlap
+2024-05-23 17:40:01,957 - root -WARNING - Ignore Line "Prepago 10%" due to overlap
+2024-05-23 17:40:01,975 - root -WARNING - Ignore Line "Media Móvil 12 meses " due to overlap
+2024-05-23 17:40:04,627 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:40:04,627 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:06,066 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:40:06,073 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:13,715 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -6287
+2024-05-23 17:40:13,748 - root -INFO - Terminated in 13.14s.
+2024-05-23 17:40:13,756 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 17:40:13,756 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:40:13,756 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:40:17,497 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:40:17,497 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:18,947 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:40:18,968 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:21,489 - root -ERROR - Ignore page 1 due to making page error: list index out of range
+2024-05-23 17:40:21,515 - root -INFO - Terminated in 7.76s.
+2024-05-23 17:40:21,515 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 17:40:21,515 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:40:21,515 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:40:25,111 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:40:25,111 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:26,873 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:40:26,883 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:35,351 - root -INFO - Terminated in 13.83s.
+2024-05-23 17:40:35,351 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn19mar2.pdf
+2024-05-23 17:40:35,351 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:40:35,351 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:40:39,336 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:40:39,336 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:40,609 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:40:40,619 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:48,873 - root -INFO - Terminated in 13.52s.
+2024-05-23 17:40:48,883 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn20mar2.pdf
+2024-05-23 17:40:48,883 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:40:48,883 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:40:52,091 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:40:52,092 - root -INFO - (1/1) Page 1
+2024-05-23 17:40:53,201 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:40:53,220 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:00,575 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -11484
+2024-05-23 17:41:00,605 - root -INFO - Terminated in 11.73s.
+2024-05-23 17:41:00,615 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 17:41:00,615 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:41:00,615 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:41:02,386 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 17:41:04,414 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:41:04,414 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:06,223 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:41:06,240 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:23,816 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -11406
+2024-05-23 17:41:23,856 - root -INFO - Terminated in 23.24s.
+2024-05-23 17:41:23,865 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 17:41:23,866 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:41:23,866 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:41:25,299 - root -WARNING - Ignore Line "$ " due to overlap
+2024-05-23 17:41:25,299 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 17:41:27,415 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:41:27,415 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:28,617 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:41:28,636 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:36,483 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -10611
+2024-05-23 17:41:36,573 - root -INFO - Terminated in 12.71s.
+2024-05-23 17:41:36,579 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu2mar2024.pdf
+2024-05-23 17:41:36,579 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:41:36,581 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:41:37,849 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 17:41:37,851 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 17:41:39,908 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:41:39,908 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:41,118 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:41:41,137 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:46,319 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -7462
+2024-05-23 17:41:46,351 - root -INFO - Terminated in 9.78s.
+2024-05-23 17:41:46,360 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu3mar2024.pdf
+2024-05-23 17:41:46,360 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:41:46,360 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:41:47,614 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 17:41:47,614 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 17:41:49,631 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:41:49,631 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:50,783 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:41:50,794 - root -INFO - (1/1) Page 1
+2024-05-23 17:41:56,757 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -2545
+2024-05-23 17:41:56,787 - root -INFO - Terminated in 10.42s.
+2024-05-23 17:41:56,797 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu4mar2024_0.pdf
+2024-05-23 17:41:56,797 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:41:56,797 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:41:57,827 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 17:41:57,827 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 17:41:59,876 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:41:59,876 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:01,293 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:01,317 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:08,280 - root -INFO - Terminated in 11.49s.
+2024-05-23 17:42:08,288 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh1ma.pdf
+2024-05-23 17:42:08,288 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:42:08,290 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:42:11,012 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:42:11,012 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:12,646 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:12,673 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:18,008 - root -INFO - Terminated in 9.72s.
+2024-05-23 17:42:18,018 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh2mar202.pdf
+2024-05-23 17:42:18,018 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:42:18,018 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:42:20,468 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:42:20,468 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:21,592 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:21,612 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:25,441 - root -INFO - Terminated in 7.43s.
+2024-05-23 17:42:25,451 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv4mar2024.pdf
+2024-05-23 17:42:25,451 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:42:25,451 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:42:26,328 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 17:42:26,328 - root -WARNING - Ignore Line " $41.78 millones " due to overlap
+2024-05-23 17:42:27,587 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:42:27,587 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:28,472 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:28,484 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:32,339 - root -INFO - Terminated in 6.89s.
+2024-05-23 17:42:32,341 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv5mar2024.pdf
+2024-05-23 17:42:32,341 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:42:32,341 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:42:33,191 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 17:42:33,191 - root -WARNING - Ignore Line "$ " due to overlap
+2024-05-23 17:42:33,191 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 17:42:35,047 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:42:35,047 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:36,208 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:36,220 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:36,988 - root -ERROR - Ignore page 1 due to making page error: list index out of range
+2024-05-23 17:42:37,021 - root -INFO - Terminated in 4.68s.
+2024-05-23 17:42:37,035 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgosubordinadostilpesosl3may2023.pdf
+2024-05-23 17:42:37,036 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 17:42:37,037 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 17:42:38,161 - root -WARNING - Ignore Line " $2,336 millones " due to overlap
+2024-05-23 17:42:38,161 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 17:42:40,128 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 17:42:40,128 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:41,414 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 17:42:41,418 - root -INFO - (1/1) Page 1
+2024-05-23 17:42:47,039 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -10914
+2024-05-23 17:42:47,067 - root -INFO - Terminated in 10.04s.
+2024-05-23 17:42:47,076 - TITULARIZADORA -INFO - (pdfaword) Conversión completa.
+2024-05-23 18:05:56,394 - TITULARIZADORA -INFO - (pdfaword) pdfaword ingreso en la funcion
+2024-05-23 18:05:56,431 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:05:56,431 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:05:56,431 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:05:57,546 - root -WARNING - Ignore Line " $1,572 millones " due to overlap
+2024-05-23 18:05:57,546 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 18:05:58,810 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:05:58,810 - root -INFO - (1/1) Page 1
+2024-05-23 18:06:40,453 - TITULARIZADORA -INFO - (pdfaword) pdfaword ingreso en la funcion
+2024-05-23 18:06:40,469 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:06:40,469 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:06:40,473 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:06:41,898 - root -WARNING - Ignore Line " $1,572 millones " due to overlap
+2024-05-23 18:06:41,898 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 18:06:43,381 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:06:43,381 - root -INFO - (1/1) Page 1
+2024-05-23 18:06:44,833 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:06:44,857 - root -INFO - (1/1) Page 1
+2024-05-23 18:06:49,610 - root -INFO - Terminated in 9.15s.
+2024-05-23 18:06:49,631 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 18:06:49,631 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:06:49,632 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:06:53,062 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:06:53,062 - root -INFO - (1/1) Page 1
+2024-05-23 18:06:54,281 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:06:54,303 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:03,956 - root -INFO - Terminated in 14.33s.
+2024-05-23 18:07:03,973 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 18:07:03,974 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:07:03,975 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:07:10,037 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:07:10,037 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:11,457 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:07:11,477 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:21,048 - root -INFO - Terminated in 17.08s.
+2024-05-23 18:07:21,056 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 18:07:21,056 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:07:21,056 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:07:24,603 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:07:24,619 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:26,130 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:07:26,144 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:39,042 - root -INFO - Terminated in 17.99s.
+2024-05-23 18:07:39,053 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 18:07:39,054 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:07:39,054 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:07:40,673 - root -WARNING - Ignore Line "Observado" due to overlap
+2024-05-23 18:07:40,674 - root -WARNING - Ignore Line "Prepago 6%" due to overlap
+2024-05-23 18:07:40,674 - root -WARNING - Ignore Line "Prepago 14%" due to overlap
+2024-05-23 18:07:40,674 - root -WARNING - Ignore Line "Prepago 20%" due to overlap
+2024-05-23 18:07:40,674 - root -WARNING - Ignore Line "Prepago 10%" due to overlap
+2024-05-23 18:07:40,674 - root -WARNING - Ignore Line "Media Móvil 12 meses " due to overlap
+2024-05-23 18:07:43,278 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:07:43,287 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:44,836 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:07:44,844 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:51,685 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -6287
+2024-05-23 18:07:51,726 - root -INFO - Terminated in 12.68s.
+2024-05-23 18:07:51,726 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 18:07:51,726 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:07:51,726 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:07:55,072 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:07:55,072 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:56,323 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:07:56,345 - root -INFO - (1/1) Page 1
+2024-05-23 18:07:58,632 - root -ERROR - Ignore page 1 due to making page error: list index out of range
+2024-05-23 18:07:58,656 - root -INFO - Terminated in 6.92s.
+2024-05-23 18:07:58,667 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 18:07:58,668 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:07:58,669 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:08:02,114 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:08:02,114 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:03,376 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:08:03,385 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:10,599 - root -INFO - Terminated in 11.94s.
+2024-05-23 18:08:10,612 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn19mar2.pdf
+2024-05-23 18:08:10,613 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:08:10,613 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:08:14,505 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:08:14,505 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:15,978 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:08:15,996 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:24,851 - root -INFO - Terminated in 14.24s.
+2024-05-23 18:08:24,851 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn20mar2.pdf
+2024-05-23 18:08:24,851 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:08:24,861 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:08:27,808 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:08:27,808 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:28,695 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:08:28,695 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:35,131 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -11484
+2024-05-23 18:08:35,153 - root -INFO - Terminated in 10.31s.
+2024-05-23 18:08:35,167 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:08:35,167 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:08:35,167 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:08:36,319 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 18:08:38,024 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:08:38,024 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:39,303 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:08:39,313 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:55,266 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -11406
+2024-05-23 18:08:55,304 - root -INFO - Terminated in 20.14s.
+2024-05-23 18:08:55,313 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 18:08:55,313 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:08:55,313 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:08:56,544 - root -WARNING - Ignore Line "$ " due to overlap
+2024-05-23 18:08:56,544 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 18:08:58,503 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:08:58,503 - root -INFO - (1/1) Page 1
+2024-05-23 18:08:59,473 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:08:59,491 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:07,077 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -10611
+2024-05-23 18:09:07,106 - root -INFO - Terminated in 11.79s.
+2024-05-23 18:09:07,113 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu2mar2024.pdf
+2024-05-23 18:09:07,114 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:07,114 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:08,067 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 18:09:08,067 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 18:09:09,824 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:09,824 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:10,759 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:10,770 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:15,332 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -7462
+2024-05-23 18:09:15,363 - root -INFO - Terminated in 8.25s.
+2024-05-23 18:09:15,363 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu3mar2024.pdf
+2024-05-23 18:09:15,363 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:15,363 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:16,421 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 18:09:16,421 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 18:09:18,190 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:18,191 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:19,192 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:19,202 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:24,183 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -2545
+2024-05-23 18:09:24,217 - root -INFO - Terminated in 8.85s.
+2024-05-23 18:09:24,218 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu4mar2024_0.pdf
+2024-05-23 18:09:24,218 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:24,218 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:25,064 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 18:09:25,064 - root -WARNING - Ignore Line "Avalúo de BRP:" due to overlap
+2024-05-23 18:09:26,800 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:26,816 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:27,964 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:27,985 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:34,107 - root -INFO - Terminated in 9.89s.
+2024-05-23 18:09:34,116 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh1ma.pdf
+2024-05-23 18:09:34,116 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:34,117 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:36,787 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:36,787 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:37,690 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:37,703 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:42,261 - root -INFO - Terminated in 8.15s.
+2024-05-23 18:09:42,277 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh2mar202.pdf
+2024-05-23 18:09:42,277 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:42,278 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:44,441 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:44,441 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:45,435 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:45,451 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:48,665 - root -INFO - Terminated in 6.39s.
+2024-05-23 18:09:48,673 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv4mar2024.pdf
+2024-05-23 18:09:48,673 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:48,673 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:49,463 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 18:09:49,464 - root -WARNING - Ignore Line " $41.78 millones " due to overlap
+2024-05-23 18:09:50,370 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:50,370 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:51,331 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:51,353 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:54,629 - root -INFO - Terminated in 5.96s.
+2024-05-23 18:09:54,638 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv5mar2024.pdf
+2024-05-23 18:09:54,638 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:54,638 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:55,450 - root -WARNING - Ignore Line "-" due to overlap
+2024-05-23 18:09:55,450 - root -WARNING - Ignore Line "$ " due to overlap
+2024-05-23 18:09:55,450 - root -WARNING - Ignore Line "Avalúo BRP" due to overlap
+2024-05-23 18:09:56,853 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:09:56,853 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:57,931 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:09:57,941 - root -INFO - (1/1) Page 1
+2024-05-23 18:09:58,553 - root -ERROR - Ignore page 1 due to making page error: list index out of range
+2024-05-23 18:09:58,586 - root -INFO - Terminated in 3.94s.
+2024-05-23 18:09:58,594 - root -INFO - Start to convert C:\Codigos\Titularizadora\pdfs\riesgosubordinadostilpesosl3may2023.pdf
+2024-05-23 18:09:58,594 - root -INFO - [1;36m[1/4] Opening document...[0m
+2024-05-23 18:09:58,595 - root -INFO - [1;36m[2/4] Analyzing document...[0m
+2024-05-23 18:09:59,489 - root -WARNING - Ignore Line " $2,336 millones " due to overlap
+2024-05-23 18:09:59,489 - root -WARNING - Ignore Line "Mora >90 días:" due to overlap
+2024-05-23 18:10:00,777 - root -INFO - [1;36m[3/4] Parsing pages...[0m
+2024-05-23 18:10:00,777 - root -INFO - (1/1) Page 1
+2024-05-23 18:10:02,044 - root -INFO - [1;36m[4/4] Creating pages...[0m
+2024-05-23 18:10:02,066 - root -INFO - (1/1) Page 1
+2024-05-23 18:10:08,504 - root -ERROR - Ignore page 1 due to making page error: value must be in range 0 to 18446744073709551615 inclusive, got -10914
+2024-05-23 18:10:08,536 - root -INFO - Terminated in 9.94s.
+2024-05-23 18:10:08,537 - TITULARIZADORA -INFO - (pdfaword) Conversión completa.
+2024-05-23 18:11:45,741 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:11:45,742 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:45,769 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:45,770 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:45,803 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:45,805 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:45,832 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:45,878 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:45,898 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:45,899 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:46,041 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:47,044 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:11:47,044 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:47,073 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:47,074 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:47,103 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:47,105 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:47,131 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:47,214 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:47,247 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:47,247 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:47,375 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:48,376 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 18:11:48,377 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:48,407 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:48,408 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:48,437 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:48,440 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:48,463 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:48,514 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:48,546 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:48,546 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:48,695 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:49,711 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 18:11:49,711 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:49,734 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:49,735 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:49,767 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:49,768 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:49,803 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:49,848 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:49,879 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:49,881 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:50,001 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:51,002 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 18:11:51,002 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:51,030 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:51,031 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:51,061 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:51,062 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:51,094 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:51,132 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:51,162 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:51,164 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:51,309 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:52,317 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 18:11:52,317 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:52,336 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:52,337 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:52,371 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:52,372 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:52,404 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:52,450 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:52,468 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:52,476 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:52,588 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:53,589 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 18:11:53,589 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:53,614 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:53,615 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:53,643 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:53,645 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:53,671 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:53,710 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:53,733 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:53,741 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:53,889 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:54,890 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 18:11:54,891 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:54,914 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:54,914 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:54,954 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:54,955 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:54,986 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:55,026 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:55,048 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:55,048 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:55,157 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:56,161 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 18:11:56,161 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:56,187 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:56,189 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:56,217 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:56,222 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:56,245 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:56,326 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:56,362 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:56,364 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:56,490 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:57,496 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn19mar2.pdf
+2024-05-23 18:11:57,496 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:57,522 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:57,523 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:57,550 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:57,550 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:57,582 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:57,625 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:57,647 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:57,648 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:57,751 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:11:58,753 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn20mar2.pdf
+2024-05-23 18:11:58,753 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:11:58,771 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:11:58,771 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:11:58,805 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:11:58,811 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:11:58,839 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:11:58,884 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:11:58,906 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:11:58,907 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:11:59,005 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:00,014 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu2mar2024.pdf
+2024-05-23 18:12:00,014 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:00,040 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:00,041 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:00,065 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:00,065 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:00,094 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:00,138 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:00,162 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:00,162 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:00,300 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:01,302 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu3mar2024.pdf
+2024-05-23 18:12:01,302 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:01,328 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:01,329 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:01,357 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:01,358 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:01,389 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:01,436 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:01,458 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:01,459 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:01,577 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:02,579 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu4mar2024_0.pdf
+2024-05-23 18:12:02,579 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:02,603 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:02,604 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:02,628 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:02,629 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:02,653 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:02,686 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:02,702 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:02,702 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:02,843 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:03,845 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh1ma.pdf
+2024-05-23 18:12:03,845 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:03,874 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:03,875 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:03,901 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:03,901 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:03,935 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:03,978 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:04,004 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:04,005 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:04,118 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:05,119 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh2mar202.pdf
+2024-05-23 18:12:05,119 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:05,145 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:05,146 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:05,175 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:05,176 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:05,203 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:05,239 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:05,268 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:05,269 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:05,400 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:06,405 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv4mar2024.pdf
+2024-05-23 18:12:06,405 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:06,421 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:06,421 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:06,466 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:06,467 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:06,492 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:06,535 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:06,558 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:06,558 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:06,674 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:07,675 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv5mar2024.pdf
+2024-05-23 18:12:07,676 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:07,699 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:07,700 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:07,720 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:07,720 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:07,754 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:07,786 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:07,816 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:07,817 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:07,898 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:12:08,904 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgosubordinadostilpesosl3may2023.pdf
+2024-05-23 18:12:08,904 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:12:08,920 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:12:08,920 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:12:08,955 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:12:08,955 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:12:08,991 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:12:09,032 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:12:09,055 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:12:09,063 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:12:09,187 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:03,775 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:14:03,776 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:03,821 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:03,824 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:03,887 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:03,889 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:03,926 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:03,967 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:03,986 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:03,995 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:04,162 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:05,168 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:14:05,168 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:05,192 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:05,194 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:05,229 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:05,230 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:05,268 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:05,312 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:05,333 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:05,333 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:05,477 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:06,483 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 18:14:06,483 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:06,512 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:06,513 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:06,546 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:06,546 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:06,590 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:06,645 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:06,676 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:06,678 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:06,863 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:07,865 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 18:14:07,865 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:07,894 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:07,895 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:07,925 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:07,927 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:07,950 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:08,005 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:08,029 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:08,030 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:08,144 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:09,145 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 18:14:09,145 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:09,167 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:09,167 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:09,210 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:09,211 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:09,249 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:09,293 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:09,327 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:09,328 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:09,474 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:10,475 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 18:14:10,475 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:10,497 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:10,498 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:10,533 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:10,534 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:10,571 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:10,627 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:10,652 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:10,658 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:10,790 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:11,803 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 18:14:11,804 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:11,833 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:11,833 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:11,861 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:11,861 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:11,902 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:11,958 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:11,979 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:11,979 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:12,180 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:13,186 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 18:14:13,186 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:13,214 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:13,215 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:13,263 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:13,265 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:13,331 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:13,395 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:13,428 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:13,428 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:13,591 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:14,601 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 18:14:14,601 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:14,630 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:14,632 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:14,656 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:14,669 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:14,704 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:14,759 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:14,781 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:14,781 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:14,969 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:15,976 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn19mar2.pdf
+2024-05-23 18:14:15,976 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:16,012 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:16,012 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:16,054 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:16,055 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:16,090 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:16,140 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:16,181 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:16,181 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:16,323 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:14:17,335 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn20mar2.pdf
+2024-05-23 18:14:17,336 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:14:17,356 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:14:17,358 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:14:17,385 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:14:17,385 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:14:17,406 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:14:17,453 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:14:17,469 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:14:17,469 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:14:17,579 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:05,530 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:18:05,530 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:05,561 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:05,562 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:05,589 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:05,589 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:05,623 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:05,665 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:05,687 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:05,687 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:05,875 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:06,875 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:18:06,875 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:06,901 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:06,902 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:06,936 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:06,937 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:06,981 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:07,034 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:07,068 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:07,069 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:07,205 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:08,206 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 18:18:08,206 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:08,233 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:08,234 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:08,274 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:08,276 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:08,316 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:08,360 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:08,399 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:08,400 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:08,592 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:09,604 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 18:18:09,604 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:09,627 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:09,627 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:09,664 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:09,666 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:09,703 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:09,748 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:09,782 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:09,783 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:09,902 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:10,904 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 18:18:10,905 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:10,929 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:10,932 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:10,964 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:10,966 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:11,009 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:11,061 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:11,082 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:11,082 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:11,234 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:18:12,236 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 18:18:12,236 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:18:12,263 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:18:12,265 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:18:12,300 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:18:12,301 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:18:12,335 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:18:12,389 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:18:12,413 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:18:12,415 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:18:12,526 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:19:56,285 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:19:56,286 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:19:56,316 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:19:56,319 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:19:56,362 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:19:56,364 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:19:56,401 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:19:56,455 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:19:56,480 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:19:56,482 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:19:56,621 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:19:57,626 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:19:57,626 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:19:57,651 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:19:57,653 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:19:57,684 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:19:57,686 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:19:57,720 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:19:57,772 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:19:57,794 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:19:57,794 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:19:57,918 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:20:55,925 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:20:55,926 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:20:55,951 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:20:55,961 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:20:55,990 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:20:55,994 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:20:56,024 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:20:56,066 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:20:56,094 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:20:56,095 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:20:56,213 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:20:57,226 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:20:57,226 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:20:57,251 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:20:57,253 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:20:57,287 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:20:57,289 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:20:57,328 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:20:57,386 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:20:57,414 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:20:57,415 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:20:57,544 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:46,982 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostilpesosl4mar202.pdf
+2024-05-23 18:21:46,982 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:47,017 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:47,019 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:47,044 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:47,046 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:47,069 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:47,117 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:47,137 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:47,144 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:47,261 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:48,275 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn5mar20.pdf
+2024-05-23 18:21:48,276 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:48,304 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:48,304 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:48,327 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:48,327 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:48,360 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:48,416 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:48,434 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:48,434 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:48,565 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:49,566 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn7mar20.pdf
+2024-05-23 18:21:49,566 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:49,598 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:49,599 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:49,629 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:49,631 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:49,662 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:49,711 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:49,732 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:49,732 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:49,875 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:50,884 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn13mar2.pdf
+2024-05-23 18:21:50,884 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:50,912 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:50,914 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:50,943 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:50,944 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:50,978 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:51,082 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:51,101 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:51,102 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:51,223 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:52,232 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn14mar2.pdf
+2024-05-23 18:21:52,232 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:52,264 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:52,264 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:52,294 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:52,295 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:52,324 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:52,361 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:52,390 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:52,392 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:52,523 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:53,530 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn15feb2.pdf
+2024-05-23 18:21:53,530 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:53,561 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:53,563 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:53,592 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:53,593 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:53,624 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:53,672 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:53,694 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:53,695 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:53,802 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:54,804 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn16mar2.pdf
+2024-05-23 18:21:54,804 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:54,831 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:54,832 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:54,857 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:54,859 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:54,887 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:54,926 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:54,945 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:54,952 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:55,072 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:56,086 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn17mar2.pdf
+2024-05-23 18:21:56,086 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:56,109 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:56,110 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:56,136 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:56,136 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:56,169 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:56,203 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:56,235 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:56,237 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:56,340 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:57,342 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn18.pdf
+2024-05-23 18:21:57,342 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:57,371 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:57,372 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:57,393 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:57,393 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:57,424 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:57,473 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:57,500 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:57,501 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:57,618 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:58,624 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn19mar2.pdf
+2024-05-23 18:21:58,624 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:58,654 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:58,655 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:58,682 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:58,683 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:58,705 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:21:58,756 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:21:58,775 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:21:58,775 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:21:58,889 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:21:59,890 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipspesosn20mar2.pdf
+2024-05-23 18:21:59,890 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:21:59,920 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:21:59,921 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:21:59,940 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:21:59,949 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:21:59,970 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:00,021 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:00,041 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:00,041 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:00,149 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:01,153 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu2mar2024.pdf
+2024-05-23 18:22:01,153 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:01,181 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:01,182 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:01,205 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:01,208 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:01,235 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:01,270 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:01,291 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:01,291 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:01,415 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:02,425 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu3mar2024.pdf
+2024-05-23 18:22:02,425 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:02,452 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:02,453 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:02,476 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:02,476 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:02,503 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:02,538 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:02,562 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:02,563 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:02,683 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:03,685 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostipsu4mar2024_0.pdf
+2024-05-23 18:22:03,685 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:03,712 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:03,713 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:03,740 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:03,741 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:03,765 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:03,832 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:03,853 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:03,853 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:03,981 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:04,983 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh1ma.pdf
+2024-05-23 18:22:04,983 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:05,011 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:05,013 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:05,036 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:05,036 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:05,070 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:05,117 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:05,137 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:05,137 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:05,251 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:06,253 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostispesosh2mar202.pdf
+2024-05-23 18:22:06,253 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:06,282 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:06,284 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:06,309 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:06,312 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:06,338 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:06,382 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:06,403 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:06,403 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:06,527 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:07,533 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv4mar2024.pdf
+2024-05-23 18:22:07,533 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:07,560 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:07,561 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:07,587 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:07,589 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:07,617 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:07,648 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:07,684 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:07,684 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:07,761 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:08,775 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgocreditossubordinadostivv5mar2024.pdf
+2024-05-23 18:22:08,775 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:08,804 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:08,805 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:08,832 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:08,834 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:08,862 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:08,897 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:08,924 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:08,925 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:09,008 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado
+2024-05-23 18:22:10,010 - TITULARIZADORA -INFO - procesando archivo C:\Codigos\Titularizadora\pdfs\riesgosubordinadostilpesosl3may2023.pdf
+2024-05-23 18:22:10,010 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha Ingreso
+2024-05-23 18:22:10,037 - TITULARIZADORA -INFO - (extraccion_fecha) extraer_fecha completado
+2024-05-23 18:22:10,039 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo Ingreso
+2024-05-23 18:22:10,067 - TITULARIZADORA -INFO - (extraccion_titulo) extraer_titulo completado
+2024-05-23 18:22:10,069 - TITULARIZADORA -INFO - (extraccion_tips) ingreso extraer_informaccion_debajo_tips
+2024-05-23 18:22:10,097 - TITULARIZADORA -INFO - (extraccion_actual) extraer_actual ingreso
+2024-05-23 18:22:10,140 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes ingreso
+2024-05-23 18:22:10,161 - TITULARIZADORA -INFO - (extraccion_porcentajes) extraer_porcentajes completado
+2024-05-23 18:22:10,162 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_procces_info ingreso
+2024-05-23 18:22:10,290 - TITULARIZADORA -INFO - (extraccion_escenarios_estres) extract_and_process_info completado

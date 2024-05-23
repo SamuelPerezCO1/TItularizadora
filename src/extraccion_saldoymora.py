@@ -5,7 +5,6 @@ import logging
 import fitz
 import os
 
-
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
 dia_actual = fecha_actual.day
@@ -78,4 +77,5 @@ def extraer_saldoymora(archivo_pdf):
         logger.info("(extraccion_saldoymora) extraer_saldoymora completado")
 
     except Exception as e:
+        
         logger.error(f"(extraer_saldoymora) error Exception {e}")

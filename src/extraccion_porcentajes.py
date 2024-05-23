@@ -5,7 +5,6 @@ import logging
 import fitz
 import os
 
-
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
 dia_actual = fecha_actual.day
