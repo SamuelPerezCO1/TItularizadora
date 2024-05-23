@@ -7,6 +7,21 @@ import extraccion_actual
 import extraccion_porcentajes
 import extraccion_escenarios_estres
 
+from datetime import datetime
+import logging
+import logging.config
+
+fecha_actual = datetime.now()
+mes_actual = fecha_actual.month
+dia_actual = fecha_actual.day
+anno_actual = fecha_actual.year
+
+nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
+
+nombre_archivo_log = f"logs/{nombre_carpeta}"
+logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
+logger = logging.getLogger('TITULARIZADORA')
+
 archivos_pdf = ["C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostilpesosl4mar202.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn5mar20.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn7mar20.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn13mar2.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn14mar2.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn15feb2.pdf",
@@ -19,6 +34,7 @@ archivos_pdf = ["C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadosti
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgosubordinadostilpesosl3may2023.pdf"]
 
 for archivo_pdf in archivos_pdf:
+    logger.info(f"procesando archivo {archivo_pdf}")
     extraccion_fecha.extraer_fecha(archivo_pdf)
     extraccion_titulo.extraer_titulo(archivo_pdf)
     extraccion_tips.extraer_informacion_debajo_tips(archivo_pdf)
@@ -26,6 +42,7 @@ for archivo_pdf in archivos_pdf:
     extraccion_porcentajes.extraer_porcentajes(archivo_pdf)
     extraccion_saldoymora.extraer_saldoymora(archivo_pdf)
     extraccion_escenarios_estres.extract_and_process_info(archivo_pdf)
+    time.sleep(1)
 
 
 
