@@ -4,6 +4,7 @@ import pandas as pd
 import logging
 import fitz
 import os
+#Librerias necesarios para el funcionamiento del codigo
 
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
@@ -15,8 +16,25 @@ nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
 nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
+#Configuracion de los loggers
 
 def extraer_actual(archivo_pdf):
+    """
+    Extrae la información 'Actual' de un archivo PDF y la guarda en un archivo CSV.
+
+    Esta función lee un archivo PDF y busca la palabra 'Actual' en cada página. 
+    Luego, extrae el texto ubicado debajo de cada instancia de 'Actual' y filtra los valores relevantes.
+    Finalmente, guarda los valores filtrados en un archivo CSV con el mismo nombre que el archivo PDF.
+
+    Args:
+        archivo_pdf (str): Ruta del archivo PDF del cual se extraerá la información 'Actual'.
+
+    Returns:
+        None
+
+    Raises:
+        Exception: Si ocurre un error durante la extracción o la escritura del archivo CSV.
+    """
         
     logger.info("(extraccion_actual) extraer_actual ingreso")
 

@@ -5,6 +5,7 @@ import pandas as pd
 import logging
 import re
 import os
+#Librerias necesarias para el funcionamineto del codigo
 
 
 fecha_actual = datetime.now()
@@ -17,8 +18,25 @@ nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
 nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
+#Configuracion de los loggers
 
 def extract_and_process_info(archivo_pdf):
+
+    """
+    Extrae y procesa la información de los escenarios de estrés de un archivo PDF y la guarda en un archivo CSV.
+
+    Esta función lee un archivo PDF y busca la sección 'Escenarios de Estrés' seguida de un conjunto de líneas.
+    Extrae el texto entre esta sección y la palabra 'Tasa', lo procesa y lo guarda en un archivo CSV.
+
+    Args:
+        archivo_pdf (str): Ruta del archivo PDF del cual se extraerá y procesará la información de los escenarios de estrés.
+
+    Returns:
+        str: Mensaje indicando si se encontró o no la información de los escenarios de estrés.
+
+    Raises:
+        Exception: Si ocurre un error durante la extracción, el procesamiento o la escritura del archivo CSV.
+    """
         
     logger.info("(extraccion_escenarios_estres) extract_and_procces_info ingreso")
 

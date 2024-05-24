@@ -1,10 +1,10 @@
 from datetime import datetime
-import pandas as pd
 import logging.config
+import pandas as pd
 import logging
 import fitz
 import os
-
+#Librerias para el funcionamiento del codigo
 
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
@@ -16,8 +16,25 @@ nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
 nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
+#Configuracion de los loggers
 
 def extraer_fecha(archivo_pdf):
+
+    """
+    Extrae la fecha de un archivo PDF y la guarda en un archivo CSV.
+
+    Esta función lee un archivo PDF y busca un área específica en cada página para extraer la fecha.
+    Luego, guarda las fechas extraídas en un archivo CSV con el mismo nombre que el archivo PDF.
+
+    Args:
+        archivo_pdf (str): Ruta del archivo PDF del cual se extraerá la fecha.
+
+    Returns:
+        None
+
+    Raises:
+        Exception: Si ocurre un error durante la extracción o la escritura del archivo CSV.
+    """
 
     logger.info("(extraccion_fecha) extraer_fecha Ingreso")
 

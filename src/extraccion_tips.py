@@ -4,6 +4,7 @@ import pandas as pd
 import logging
 import fitz
 import os
+#Librerias necesarias para el funcionamiento del codigo
 
 
 fecha_actual = datetime.now()
@@ -16,8 +17,25 @@ nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
 nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
- 
+#Configuracion de lo loggers
+
 def extraer_informacion_debajo_tips(archivo_pdf):
+
+    """
+    Extrae información debajo de la sección 'Saldos y cobertura' de un archivo PDF y la guarda en un archivo CSV.
+
+    Esta función lee un archivo PDF y busca la sección 'Saldos y cobertura'. Luego, extrae el texto ubicado debajo de esta sección 
+    y filtra los valores relevantes. Finalmente, guarda los datos filtrados en un archivo CSV con el mismo nombre que el archivo PDF.
+
+    Args:
+        archivo_pdf (str): Ruta del archivo PDF del cual se extraerá la información debajo de 'Saldos y cobertura'.
+
+    Returns:
+        None
+
+    Raises:
+        Exception: Si ocurre un error durante la extracción o la escritura del archivo CSV.
+    """
 
     logger.info("(extraccion_tips) ingreso extraer_informaccion_debajo_tips")
 

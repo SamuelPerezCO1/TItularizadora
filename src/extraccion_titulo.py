@@ -4,6 +4,7 @@ import pandas as pd
 import logging
 import fitz
 import os
+#librerias necesarias para el funcionamiento del codigo
 
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
@@ -15,8 +16,26 @@ nombre_carpeta = f"{anno_actual}{mes_actual:02d}{dia_actual}"
 nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
+#Configuracion de los loggers
 
 def extraer_titulo(archivo_pdf):
+
+    """
+    Extrae el título del informe de riesgo de un archivo PDF y lo guarda en un archivo CSV.
+
+    Esta función lee un archivo PDF y busca el título 'Informe de Riesgo'. Luego, extrae el texto ubicado debajo de este título 
+    y lo guarda en un archivo CSV con el mismo nombre que el archivo PDF.
+
+    Args:
+        archivo_pdf (str): Ruta del archivo PDF del cual se extraerá el título del informe de riesgo.
+
+    Returns:
+        None
+
+    Raises:
+        Exception: Si ocurre un error durante la extracción o la escritura del archivo CSV.
+    """
+
     logger.info("(extraccion_titulo) extraer_titulo Ingreso")
     try:
         titulo = []
