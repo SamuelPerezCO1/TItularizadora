@@ -19,6 +19,7 @@ import logging
 import carpeta
 import txtacsv
 import time
+import json
 import os
 #libreias necesarias para el funcionamiento del codigo
 
@@ -33,6 +34,12 @@ nombre_archivo_log = f"logs/{nombre_carpeta}"
 logging.config.fileConfig('logging.conf', defaults={'filename':nombre_archivo_log})
 logger = logging.getLogger('TITULARIZADORA')
 
+with open("static/main.json" , "r") as f:
+    data = json.load(f)
+    carpeta_pdfs = data['carpetas']['carpeta_pdfs']
+    carpeta_word = data['carpetas']['carpeta_word']
+    carpeta_txt = data['carpetas']['carpeta_txt']
+
 archivos_pdf = ["C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostilpesosl4mar202.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn5mar20.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn7mar20.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn13mar2.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn14mar2.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostipspesosn15feb2.pdf",
@@ -44,9 +51,6 @@ archivos_pdf = ["C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadosti
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostivv4mar2024.pdf" , "C:\\Codigos\\Titularizadora\\pdfs\\riesgocreditossubordinadostivv5mar2024.pdf",
                 "C:\\Codigos\\Titularizadora\\pdfs\\riesgosubordinadostilpesosl3may2023.pdf"]
 
-carpeta_pdfs = 'C:\\Codigos\\Titularizadora\\pdfs'
-carpeta_word = 'C:\\Codigos\\Titularizadora\\word'
-carpeta_txt = 'C:\\Codigos\\Titularizadora\\txt'
 carpeta_principal = os.path.abspath(os.path.join(carpeta_txt, os.pardir))
 
 pdfaword.pdfaword(carpeta_pdfs , carpeta_word)

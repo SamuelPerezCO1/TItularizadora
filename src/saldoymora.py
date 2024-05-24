@@ -5,6 +5,10 @@ import logging
 import os
 #Librerias necesarias para el funcionamiento del codigo
 
+"""
+Posible Eliminacion ------------------------------------------------------------------------------------------------------------------------------------------------
+"""
+
 fecha_actual = datetime.now()
 mes_actual = fecha_actual.month
 dia_actual = fecha_actual.day
